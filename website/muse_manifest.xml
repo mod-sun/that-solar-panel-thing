@@ -1,0 +1,71 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.modulosun.com" resolutions="1x" timestamp="1457066570654">
+  <folder name="css">
+    <file name="site_global.css" crc="303421102"/>
+    <file name="master_a-master.css" crc="174547451" ref="index"/>
+    <file name="index.css" crc="344275218" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="newposter-copy.pdf" crc="465007719" seo="true" mt="1447965233000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="phone>index:index"/>
+    <file name="museutils.js" crc="531812214" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4156477058" ref="phone>index:index"/>
+    <file name="form_check.php" crc="373582055" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="211381018" ref="phone>index:index"/>
+    <file name="form_process.php" crc="6354943" ref="phone>index:index"/>
+    <file name="form-u1840.php" crc="3922436713" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3975164813" ref="phone>index"/>
+    <file name="museredirect.js" crc="524071285" ref="index"/>
+    <file name="form-u340.php" crc="4000663653" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkg_01.jpg" crc="4249309889" ref="phone>index"/>
+    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index"/>
+    <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
+    <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
+    <file name="gallery_03-u710-fr.png" crc="15474422" ref="phone>index"/>
+    <file name="gallery_02-u711-fr.png" crc="114773680" ref="phone>index"/>
+    <file name="gallery_01-u712-fr.png" crc="3862423621" ref="phone>index"/>
+    <file name="u1864-17.png" crc="532403934" ref="phone>index"/>
+    <file name="u1864-17-r.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-m.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-fs.png" crc="532403934" ref="phone>index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>index:index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>index:index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>index:index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="phone>index:index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="phone>index:index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>index:index"/>
+    <file name="u1786.png" crc="380377693" ref="phone>index"/>
+    <file name="u1786-r.png" crc="419685300" ref="phone>index"/>
+    <file name="u1788.png" crc="149207818" ref="phone>index"/>
+    <file name="u1788-r.png" crc="50848226" ref="phone>index"/>
+    <file name="u1790.png" crc="323754964" ref="phone>index"/>
+    <file name="u1790-r.png" crc="4088465079" ref="phone>index"/>
+    <file name="whole_project.jpg" crc="3792549847" seo="true" ref="index"/>
+    <file name="imag5843.jpg" crc="21546259" seo="true" ref="index"/>
+    <file name="diagram.png" crc="37840437" seo="true" ref="index"/>
+    <file name="sideviewdoodle.jpg" crc="4041906069" seo="true" ref="index"/>
+    <file name="fullsizerender (4).jpg" crc="33201786" seo="true" ref="index"/>
+    <file name="imag5838-u214-fr.png" crc="342942816" ref="index"/>
+    <file name="u347-17.png" crc="4010720689" ref="index"/>
+    <file name="u347-17-r.png" crc="305145131" ref="index"/>
+    <file name="u347-17-m.png" crc="305145131" ref="index"/>
+    <file name="u347-17-fs.png" crc="4010720689" ref="index"/>
+    <file name="pasted image 560x560.jpg" crc="348806854" seo="true" ref="index"/>
+    <file name="pasted image 560x56050x50.jpg" crc="4019408168" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4165537668" ref="phone>index"/>
+      <file name="index.css" crc="3789558267" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3847308456" seo="true" mt="1457049859033" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3898116953" seo="true" mt="1457066381020" redirect="true"/>
+</manifest>
